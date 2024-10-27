@@ -1,54 +1,24 @@
-<h1>
-  
-</h1>
-<h1 align="center">
-Desenvolvimento Mobile
-
-React Native
-</h1>
-</h2>
-<h2 align="center">
-Individual
-
-Projeto de Clone do Google Classroom
-
-Turma 18
-</h2>
-
-## 📝 Índice
-
-<ul>
-    <li>Sobre o Projeto</li>
-    <li>Tecnologias utilizadas</li>
-    <li>Resultado final</li>
-    <li>Autor do Projeto</li>
-</ul>
-
-
-## :desktop_computer: Sobre o Projeto
-
-
-De acordo com o projeto proposto, foram desenvolvidas duas telas tentando recriar um aplicativo de minha escolha, no caso o Google Classroom.
+<h1 align="center">Clone Google Classroom</h1>
+<h4 align="center">De acordo com o projeto proposto, foram desenvolvidas duas telas tentando recriar um aplicativo de minha escolha, no caso o Google Classroom.
 As telas escolhidas foram o Mural e Home.
-    
-O projeto foi desenvolvido durante a disciplina de Desenvolvimento Mobile da Residência em TIC/Software do Serratec.
+</h4>
+<p align="center">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TYPESCRIPT-%233178C6?style=for-the-badge&logo=typescript&logoColor=%233178C6&labelColor=black">
+  <img alt="React Native" src="https://img.shields.io/badge/react%20native-%2361DAFB?style=for-the-badge&logo=react&labelColor=black&color=%2361DAFB">
+  <img alt="Expo" src="https://img.shields.io/badge/expo-%23000020?style=for-the-badge&logo=expo&logoColor=%23000020&labelColor=white&color=%23000020">
+</p>
+<p align="center">
+  <a href="#resultado">Resultado</a> •
+  <a href="#créditos">Créditos</a>
+</p>
 
-## :hammer_and_wrench: Tecnologias utilizadas
-
-- [GitHub](https://github.com/)
-- [Node.js](https://nodejs.org/en/download/package-manager/current)
-- [Visual Studio Code](https://code.visualstudio.com/download)
-- [React Native](https://reactnative.dev)
-- [Expo](https://expo.dev)
-- [TypeScript](https://www.typescriptlang.org)
-
-## 👀 Resultado
+## Resultado
 O resultado é a sempre a print mostrada a direita da barra divisória.
-OBS: O mural foi parcialmente censurado para preservar o sigilo.
+
+_OBS: O mural foi parcialmente censurado para preservar o sigilo._
 
 <img src="https://i.imgur.com/DaP7GAQ.png"/>
 <img src="https://i.imgur.com/8pJOoqq.png"/>
 
-## 👀 Autor
-  - Paulo Henrique - [paulooosf](http://github.com/paulooosf)
-
+## Créditos
+- Paulo Henrique - [paulooosf](http://github.com/paulooosf)
